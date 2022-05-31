@@ -1,0 +1,85 @@
+*{
+
+margin: 0;
+padding: 0;
+
+}
+
+/* navbar section start */
+
+.navbar-nav{
+
+font-size: 18px;
+top: 0;
+z-index: 1;
+
+}
+.navbar{
+
+position: sticky;
+
+}
+
+/* navbar section end */
+
+
+/* button section start */
+
+.btn:hover{
+
+color: white;
+
+}
+
+/* button section start */
+
+
+
+
+
+/* skills section start */
+
+
+.progress{
+
+height: 30px;
+border-radius: 50px;
+transition: all 0.5s ease;
+
+}
+
+.progress:hover{
+
+transform: scale(1.1);
+
+}
+
+
+/* skills section end */
+
+
+/* service section start */
+
+.card{
+
+transition: all 0.5s ease;
+
+}
+
+.card img{
+
+height: 100px;
+width: 100px;
+margin: auto;
+
+}
+
+.card:hover{
+
+transform: scale(1.1);
+box-shadow: 1px 2px 10px black;
+
+}
+
+
+/* service section end */
